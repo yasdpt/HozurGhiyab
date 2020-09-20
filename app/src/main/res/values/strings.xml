@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">حضور غیاب</string>
+    <string name="login_password">رمز عبور</string>
+    <string name="login_username">نام کاربری</string>
+    <string name="login_login">ورود</string>
+    <string name="login_student">دانشجو</string>
+    <string name="login_professor">استاد</string>
+    <string name="login_admin">مدیر</string>
+
+    <string name="network_failure">خطا در ارتباط با سرور!</string>
+    <string name="no_internet">لطفا اینترنت خود را متصل و دوباره تلاش کنید</string>
+
+
+    <string name="course_unit">تعداد واحد:</string>
+    <string name="course_pro">نام استاد:</string>
+    <string name="course_day">روز کلاس:</string>
+    <string name="course_time">ساعت کلاس:</string>
+    <string name="try_again_please">آیتمی پیدا نشد، لطفا دوباره تلاش کنید</string>
+    <string name="try_again">تلاش دوباره</string>
+    <string name="menu_logout">Logout</string>
+    <string name="network_failure_try">خطا در ارتباط با سرور، لطف دوباره تلاش کنید</string>
+    <string name="title_activity_ad_classes">AdClasses</string>
+</resources>
